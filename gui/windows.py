@@ -1,5 +1,6 @@
 import os
 import tkinter as tk
+from tkinter import ttk
 
 import pyperclip
 from PIL import Image, ImageTk
@@ -29,26 +30,29 @@ class MainWindow(tk.Tk):
         options.grab_set()
         self.wait_window(options)
 
+    # Pop up window to show the progress during the ffmpeg conversion
     def conversion_progress(self):
-        x, y = self.winfo_pointerxy()
-        progress = tk.Toplevel()
-        progress.geometry(f"+{x}+{y}")
-        progress.iconbitmap(self.icon_path)
-        progress.title("Conversion Progress")
-        progress.configure(padx=30, pady=20, background='white', highlightcolor='cornflower blue',
-                        highlightbackground='cornflower blue', highlightthickness=1, relief='solid')
-        progress.overrideredirect(True)
-        progress.resizable(False, False)
+        # Create a new top-level window (popup)
+        progress_window = tk.Toplevel(self)
+        progress_window.title("Conversion Progress")
+        progress_window.geometry("300x100")
+        progress_window.resizable(False, False)
 
-        title_frame = tk.Frame(progress, background='white')
-        image = Image.open(self.icon_path)
-        image = image.resize((64, 64))
-        tk_image = ImageTk.PhotoImage(image)
-        label = tk.Label(title_frame, image=tk_image, background='white')
-        label.image = tk_image
-        label.pack(side='left', pady=20)
-        tk.Label(title_frame, text=self.title(), font=('Segoe UI', 16), background='white').pack(side=tk.LEFT, padx=20)
-        title_frame.pack()
+        # Prevent interaction with the main window
+        progress_window.grab_set()
+
+        # Add a label
+        label = tk.Label(progress_window, text="The input file was not an mp3! Let me convert it...", font=("Arial", 10))
+        label.pack(pady=5)
+        label = tk.Label(progress_window, text="Converting... Please wait.", font=("Arial", 10))
+        label.pack(pady=2)
+
+        # Add the progress bar
+        progress_bar = ttk.Progressbar(progress_window, orient="horizontal", length=250, mode="determinate")
+        progress_bar.pack(pady=10)
+
+        # Return both the window and the progress bar widget
+        return progress_window, progress_bar
 
     def add_converted_file(self, file_path):
         filename = os.path.basename(file_path)
@@ -135,7 +139,7 @@ class MainWindow(tk.Tk):
 
         upload_file_button = tk.Button(upload_frame,
                                        text="Upload File",
-                                       command=lambda: upload_file(self.add_converted_file),
+                                       command=lambda: upload_file(self.add_converted_file, self),
                                        image=self.file_icon,
                                        compound="left",
                                        anchor="w",

@@ -1184,3 +1184,109 @@ subprocess output: b'size=   28416KiB time=00:30:27.60 bitrate= 127.4kbits/s spe
 subprocess output: b'[out#0/mp3 @ 000002bad9bd0ec0] video:0KiB audio:29006KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.000795%'
 subprocess output: b'size=   29006KiB time=00:30:56.32 bitrate= 128.0kbits/s speed= 101x'
 Conversion complete
+STREAM b'IHDR' 16 13
+STREAM b'PLTE' 41 51
+STREAM b'tRNS' 104 16
+STREAM b'IDAT' 132 1085
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 4877
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+Importing BlpImagePlugin
+Importing BmpImagePlugin
+Importing BufrStubImagePlugin
+Importing CurImagePlugin
+Importing DcxImagePlugin
+Importing DdsImagePlugin
+Importing EpsImagePlugin
+Importing FitsImagePlugin
+Importing FliImagePlugin
+Importing FpxImagePlugin
+Image: failed to import FpxImagePlugin: No module named 'olefile'
+Importing FtexImagePlugin
+Importing GbrImagePlugin
+Importing GifImagePlugin
+Importing GribStubImagePlugin
+Importing Hdf5StubImagePlugin
+Importing IcnsImagePlugin
+Importing IcoImagePlugin
+Importing ImImagePlugin
+Importing ImtImagePlugin
+Importing IptcImagePlugin
+Importing JpegImagePlugin
+Importing Jpeg2KImagePlugin
+Importing McIdasImagePlugin
+Importing MicImagePlugin
+Image: failed to import MicImagePlugin: No module named 'olefile'
+Importing MpegImagePlugin
+Importing MpoImagePlugin
+Importing MspImagePlugin
+Importing PalmImagePlugin
+Importing PcdImagePlugin
+Importing PcxImagePlugin
+Importing PdfImagePlugin
+Importing PixarImagePlugin
+Importing PngImagePlugin
+Importing PpmImagePlugin
+Importing PsdImagePlugin
+Importing QoiImagePlugin
+Importing SgiImagePlugin
+Importing SpiderImagePlugin
+Importing SunImagePlugin
+Importing TgaImagePlugin
+Importing TiffImagePlugin
+Importing WebPImagePlugin
+Importing WmfImagePlugin
+Importing XbmImagePlugin
+Importing XpmImagePlugin
+Importing XVThumbImagePlugin
+STREAM b'IHDR' 16 13
+STREAM b'PLTE' 41 51
+STREAM b'tRNS' 104 16
+STREAM b'IDAT' 132 1085
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 4877
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+Selected file: coppia6.aac
+Converting 'coppia6.aac' to MP3...
+STREAM b'IHDR' 16 13
+STREAM b'PLTE' 41 51
+STREAM b'tRNS' 104 16
+STREAM b'IDAT' 132 1085
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 4877
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+Selected file: coppia6.aac
+STREAM b'IHDR' 16 13
+STREAM b'PLTE' 41 51
+STREAM b'tRNS' 104 16
+STREAM b'IDAT' 132 1085
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 4877
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+Selected file: coppia6.aac
+STREAM b'IHDR' 16 13
+STREAM b'PLTE' 41 51
+STREAM b'tRNS' 104 16
+STREAM b'IDAT' 132 1085
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 4877
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+Selected file: coppia6.aac
+Converting 'coppia6.aac' to MP3...
+Selected file: coppia4.aac
+Converting 'coppia4.aac' to MP3...
+STREAM b'IHDR' 16 13
+STREAM b'PLTE' 41 51
+STREAM b'tRNS' 104 16
+STREAM b'IDAT' 132 1085
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 4877
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+Selected file: coppia6.aac
+Converting 'coppia6.aac' to MP3...
