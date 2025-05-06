@@ -1,0 +1,1186 @@
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+Importing BlpImagePlugin
+Importing BmpImagePlugin
+Importing BufrStubImagePlugin
+Importing CurImagePlugin
+Importing DcxImagePlugin
+Importing DdsImagePlugin
+Importing EpsImagePlugin
+Importing FitsImagePlugin
+Importing FliImagePlugin
+Importing FpxImagePlugin
+Image: failed to import FpxImagePlugin: No module named 'olefile'
+Importing FtexImagePlugin
+Importing GbrImagePlugin
+Importing GifImagePlugin
+Importing GribStubImagePlugin
+Importing Hdf5StubImagePlugin
+Importing IcnsImagePlugin
+Importing IcoImagePlugin
+Importing ImImagePlugin
+Importing ImtImagePlugin
+Importing IptcImagePlugin
+Importing JpegImagePlugin
+Importing Jpeg2KImagePlugin
+Importing McIdasImagePlugin
+Importing MicImagePlugin
+Image: failed to import MicImagePlugin: No module named 'olefile'
+Importing MpegImagePlugin
+Importing MpoImagePlugin
+Importing MspImagePlugin
+Importing PalmImagePlugin
+Importing PcdImagePlugin
+Importing PcxImagePlugin
+Importing PdfImagePlugin
+Importing PixarImagePlugin
+Importing PngImagePlugin
+Importing PpmImagePlugin
+Importing PsdImagePlugin
+Importing QoiImagePlugin
+Importing SgiImagePlugin
+Importing SpiderImagePlugin
+Importing SunImagePlugin
+Importing TgaImagePlugin
+Importing TiffImagePlugin
+Importing WebPImagePlugin
+Importing WmfImagePlugin
+Importing XbmImagePlugin
+Importing XpmImagePlugin
+Importing XVThumbImagePlugin
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+STREAM b'IHDR' 16 13
+STREAM b'PLTE' 41 93
+STREAM b'IDAT' 146 710
+STREAM b'IHDR' 16 13
+STREAM b'PLTE' 41 93
+STREAM b'IDAT' 146 710
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+STREAM b'IHDR' 16 13
+STREAM b'PLTE' 41 96
+STREAM b'IDAT' 149 1227
+STREAM b'IHDR' 16 13
+STREAM b'PLTE' 41 93
+STREAM b'IDAT' 146 710
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+STREAM b'IHDR' 16 13
+STREAM b'PLTE' 41 96
+STREAM b'IDAT' 149 1227
+STREAM b'IHDR' 16 13
+STREAM b'PLTE' 41 96
+STREAM b'IDAT' 149 1227
+STREAM b'IHDR' 16 13
+STREAM b'PLTE' 41 96
+STREAM b'IDAT' 149 1227
+STREAM b'IHDR' 16 13
+STREAM b'PLTE' 41 93
+STREAM b'IDAT' 146 710
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+STREAM b'IHDR' 16 13
+STREAM b'PLTE' 41 96
+STREAM b'IDAT' 149 1227
+STREAM b'IHDR' 16 13
+STREAM b'PLTE' 41 93
+STREAM b'IDAT' 146 710
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+STREAM b'IHDR' 16 13
+STREAM b'PLTE' 41 96
+STREAM b'IDAT' 149 1227
+STREAM b'IHDR' 16 13
+STREAM b'PLTE' 41 93
+STREAM b'IDAT' 146 710
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 8192
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 4877
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 8192
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 4877
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 8192
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 4877
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 8192
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 4877
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 8192
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 4877
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 8192
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 4877
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 8192
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 4877
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 8192
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 4877
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 8192
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 4877
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 8192
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 4877
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 8192
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 4877
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 8192
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 4877
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 8192
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 4877
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 8192
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 4877
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 8192
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 4877
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 8192
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 4877
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 8192
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 4877
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 8192
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 4877
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 8192
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 4877
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 8192
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 4877
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 8192
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 4877
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 8192
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 4877
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 8192
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 4877
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 8192
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 4877
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 8192
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 4877
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 8192
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 4877
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 8192
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 4877
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 8192
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 4877
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 8192
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 4877
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 8192
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 4877
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 8192
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 4877
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 8192
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 4877
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 8192
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 4877
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 8192
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 4877
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 8192
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 4877
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 8192
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 4877
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 8192
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 4877
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 8192
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 4877
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+STREAM b'IHDR' 16 13
+STREAM b'PLTE' 41 18
+STREAM b'IDAT' 71 1233
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 4877
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+STREAM b'IHDR' 16 13
+STREAM b'PLTE' 41 51
+STREAM b'tRNS' 104 16
+STREAM b'IDAT' 132 1085
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 4877
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+STREAM b'IHDR' 16 13
+STREAM b'PLTE' 41 51
+STREAM b'tRNS' 104 16
+STREAM b'IDAT' 132 1085
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 4877
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+STREAM b'IHDR' 16 13
+STREAM b'PLTE' 41 51
+STREAM b'tRNS' 104 16
+STREAM b'IDAT' 132 1085
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 4877
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+STREAM b'IHDR' 16 13
+STREAM b'PLTE' 41 51
+STREAM b'tRNS' 104 16
+STREAM b'IDAT' 132 1085
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 4877
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+STREAM b'IHDR' 16 13
+STREAM b'PLTE' 41 51
+STREAM b'tRNS' 104 16
+STREAM b'IDAT' 132 1085
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 4877
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+STREAM b'IHDR' 16 13
+STREAM b'PLTE' 41 51
+STREAM b'tRNS' 104 16
+STREAM b'IDAT' 132 1085
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 4877
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+STREAM b'IHDR' 16 13
+STREAM b'PLTE' 41 51
+STREAM b'tRNS' 104 16
+STREAM b'IDAT' 132 1085
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 4877
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+STREAM b'IHDR' 16 13
+STREAM b'PLTE' 41 51
+STREAM b'tRNS' 104 16
+STREAM b'IDAT' 132 1085
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 4877
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+STREAM b'IHDR' 16 13
+STREAM b'PLTE' 41 51
+STREAM b'tRNS' 104 16
+STREAM b'IDAT' 132 1085
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 4877
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+STREAM b'IHDR' 16 13
+STREAM b'PLTE' 41 51
+STREAM b'tRNS' 104 16
+STREAM b'IDAT' 132 1085
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 4877
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+STREAM b'IHDR' 16 13
+STREAM b'PLTE' 41 51
+STREAM b'tRNS' 104 16
+STREAM b'IDAT' 132 1085
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 4877
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+STREAM b'IHDR' 16 13
+STREAM b'PLTE' 41 51
+STREAM b'tRNS' 104 16
+STREAM b'IDAT' 132 1085
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 4877
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+STREAM b'IHDR' 16 13
+STREAM b'PLTE' 41 51
+STREAM b'tRNS' 104 16
+STREAM b'IDAT' 132 1085
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 4877
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+STREAM b'IHDR' 16 13
+STREAM b'PLTE' 41 51
+STREAM b'tRNS' 104 16
+STREAM b'IDAT' 132 1085
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 4877
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+subprocess.call(['ffmpeg', '-y', '-i', 'C:/Users/Davide/Downloads/recordings/coppia5.aac', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+subprocess.call(['ffmpeg', '-y', '-f', 'wav', '-i', 'C:\\Users\\Davide\\AppData\\Local\\Temp\\tmpxonw5m9h', '-f', 'mp3', 'C:\\Users\\Davide\\AppData\\Local\\Temp\\tmpext385ud'])
+subprocess output: b'ffmpeg version 7.1.1-essentials_build-www.gyan.dev Copyright (c) 2000-2025 the FFmpeg developers'
+subprocess output: b'  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)'
+subprocess output: b'  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband'
+subprocess output: b'  libavutil      59. 39.100 / 59. 39.100'
+subprocess output: b'  libavcodec     61. 19.101 / 61. 19.101'
+subprocess output: b'  libavformat    61.  7.100 / 61.  7.100'
+subprocess output: b'  libavdevice    61.  3.100 / 61.  3.100'
+subprocess output: b'  libavfilter    10.  4.100 / 10.  4.100'
+subprocess output: b'  libswscale      8.  3.100 /  8.  3.100'
+subprocess output: b'  libswresample   5.  3.100 /  5.  3.100'
+subprocess output: b'  libpostproc    58.  3.100 / 58.  3.100'
+subprocess output: b'[aist#0:0/pcm_s16le @ 00000216b3f5b100] Guessed Channel Layout: stereo'
+subprocess output: b"Input #0, wav, from 'C:\\Users\\Davide\\AppData\\Local\\Temp\\tmpxonw5m9h':"
+subprocess output: b'  Duration: 00:26:35.50, bitrate: 1536 kb/s'
+subprocess output: b'  Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 48000 Hz, stereo, s16, 1536 kb/s'
+subprocess output: b'Stream mapping:'
+subprocess output: b'  Stream #0:0 -> #0:0 (pcm_s16le (native) -> mp3 (libmp3lame))'
+subprocess output: b'Press [q] to stop, [?] for help'
+subprocess output: b"Output #0, mp3, to 'C:\\Users\\Davide\\AppData\\Local\\Temp\\tmpext385ud':"
+subprocess output: b'  Metadata:'
+subprocess output: b'    TSSE            : Lavf61.7.100'
+subprocess output: b'  Stream #0:0: Audio: mp3, 48000 Hz, stereo, s16p'
+subprocess output: b'      Metadata:'
+subprocess output: b'        encoder         : Lavc61.19.101 libmp3lame'
+subprocess output: b'size=     512KiB time=00:00:46.68 bitrate=  89.9kbits/s speed=91.1x'
+subprocess output: b'size=    1536KiB time=00:01:39.24 bitrate= 126.8kbits/s speed=95.8x'
+subprocess output: b'size=    2304KiB time=00:02:31.60 bitrate= 124.5kbits/s speed=97.9x'
+subprocess output: b'size=    2816KiB time=00:03:13.29 bitrate= 119.3kbits/s speed=93.8x'
+subprocess output: b'size=    3840KiB time=00:04:07.99 bitrate= 126.8kbits/s speed=96.2x'
+subprocess output: b'size=    4608KiB time=00:05:00.86 bitrate= 125.5kbits/s speed=97.2x'
+subprocess output: b'size=    5376KiB time=00:05:51.84 bitrate= 125.2kbits/s speed=97.7x'
+subprocess output: b'size=    6144KiB time=00:06:43.12 bitrate= 124.9kbits/s speed=97.7x'
+subprocess output: b'size=    6912KiB time=00:07:38.30 bitrate= 123.5kbits/s speed=98.7x'
+subprocess output: b'size=    7936KiB time=00:08:30.55 bitrate= 127.3kbits/s speed=99.1x'
+subprocess output: b'size=    8704KiB time=00:09:25.39 bitrate= 126.1kbits/s speed=99.8x'
+subprocess output: b'size=    9472KiB time=00:10:21.91 bitrate= 124.8kbits/s speed= 101x'
+subprocess output: b'size=   10496KiB time=00:11:15.26 bitrate= 127.3kbits/s speed= 101x'
+subprocess output: b'size=   11264KiB time=00:12:08.78 bitrate= 126.6kbits/s speed= 101x'
+subprocess output: b'size=   12032KiB time=00:13:05.20 bitrate= 125.5kbits/s speed= 102x'
+subprocess output: b'size=   13056KiB time=00:13:59.83 bitrate= 127.4kbits/s speed= 102x'
+subprocess output: b'size=   13824KiB time=00:14:56.18 bitrate= 126.4kbits/s speed= 102x'
+subprocess output: b'size=   14848KiB time=00:15:51.67 bitrate= 127.8kbits/s speed= 102x'
+subprocess output: b'size=   15616KiB time=00:16:46.10 bitrate= 127.2kbits/s speed= 103x'
+subprocess output: b'size=   16384KiB time=00:17:38.97 bitrate= 126.7kbits/s speed= 103x'
+subprocess output: b'size=   17152KiB time=00:18:32.85 bitrate= 126.3kbits/s speed= 103x'
+subprocess output: b'size=   18176KiB time=00:19:25.46 bitrate= 127.8kbits/s speed= 103x'
+subprocess output: b'size=   18944KiB time=00:20:17.76 bitrate= 127.4kbits/s speed= 103x'
+subprocess output: b'size=   19712KiB time=00:21:05.85 bitrate= 127.6kbits/s speed= 102x'
+subprocess output: b'size=   20480KiB time=00:21:58.34 bitrate= 127.3kbits/s speed= 102x'
+subprocess output: b'size=   21248KiB time=00:22:50.49 bitrate= 127.0kbits/s speed= 102x'
+subprocess output: b'size=   22016KiB time=00:23:42.09 bitrate= 126.8kbits/s speed= 102x'
+subprocess output: b'size=   23040KiB time=00:24:34.84 bitrate= 128.0kbits/s speed= 102x'
+subprocess output: b'size=   23808KiB time=00:25:26.64 bitrate= 127.8kbits/s speed= 102x'
+subprocess output: b'size=   24576KiB time=00:26:19.96 bitrate= 127.4kbits/s speed= 102x'
+subprocess output: b'[out#0/mp3 @ 00000216b3f50ec0] video:0KiB audio:24930KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.000924%'
+subprocess output: b'size=   24931KiB time=00:26:35.49 bitrate= 128.0kbits/s speed= 102x'
+STREAM b'IHDR' 16 13
+STREAM b'PLTE' 41 51
+STREAM b'tRNS' 104 16
+STREAM b'IDAT' 132 1085
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 4877
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+Selected file: C:/Users/Davide/Downloads/recordings/coppia6.aac
+Converting 'C:/Users/Davide/Downloads/recordings/coppia6.aac' to MP3...
+subprocess.call(['ffmpeg', '-y', '-i', 'C:/Users/Davide/Downloads/recordings/coppia6.aac', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+subprocess.call(['ffmpeg', '-y', '-f', 'wav', '-i', 'C:\\Users\\Davide\\AppData\\Local\\Temp\\tmpl572pb55', '-f', 'mp3', 'C:\\Users\\Davide\\AppData\\Local\\Temp\\tmpie7vppdg'])
+subprocess output: b'ffmpeg version 7.1.1-essentials_build-www.gyan.dev Copyright (c) 2000-2025 the FFmpeg developers'
+subprocess output: b'  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)'
+subprocess output: b'  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband'
+subprocess output: b'  libavutil      59. 39.100 / 59. 39.100'
+subprocess output: b'  libavcodec     61. 19.101 / 61. 19.101'
+subprocess output: b'  libavformat    61.  7.100 / 61.  7.100'
+subprocess output: b'  libavdevice    61.  3.100 / 61.  3.100'
+subprocess output: b'  libavfilter    10.  4.100 / 10.  4.100'
+subprocess output: b'  libswscale      8.  3.100 /  8.  3.100'
+subprocess output: b'  libswresample   5.  3.100 /  5.  3.100'
+subprocess output: b'  libpostproc    58.  3.100 / 58.  3.100'
+subprocess output: b'[aist#0:0/pcm_s16le @ 00000219369fb100] Guessed Channel Layout: stereo'
+subprocess output: b"Input #0, wav, from 'C:\\Users\\Davide\\AppData\\Local\\Temp\\tmpl572pb55':"
+subprocess output: b'  Duration: 00:30:56.32, bitrate: 1536 kb/s'
+subprocess output: b'  Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 48000 Hz, stereo, s16, 1536 kb/s'
+subprocess output: b'Stream mapping:'
+subprocess output: b'  Stream #0:0 -> #0:0 (pcm_s16le (native) -> mp3 (libmp3lame))'
+subprocess output: b'Press [q] to stop, [?] for help'
+subprocess output: b"Output #0, mp3, to 'C:\\Users\\Davide\\AppData\\Local\\Temp\\tmpie7vppdg':"
+subprocess output: b'  Metadata:'
+subprocess output: b'    TSSE            : Lavf61.7.100'
+subprocess output: b'  Stream #0:0: Audio: mp3, 48000 Hz, stereo, s16p'
+subprocess output: b'      Metadata:'
+subprocess output: b'        encoder         : Lavc61.19.101 libmp3lame'
+subprocess output: b'size=     512KiB time=00:00:48.84 bitrate=  85.9kbits/s speed=95.6x'
+subprocess output: b'size=    1536KiB time=00:01:42.19 bitrate= 123.1kbits/s speed=98.8x'
+subprocess output: b'size=    2304KiB time=00:02:35.42 bitrate= 121.4kbits/s speed= 101x'
+subprocess output: b'size=    3072KiB time=00:03:31.00 bitrate= 119.3kbits/s speed= 102x'
+subprocess output: b'size=    4096KiB time=00:04:23.95 bitrate= 127.1kbits/s speed= 102x'
+subprocess output: b'size=    4864KiB time=00:05:17.08 bitrate= 125.7kbits/s speed= 103x'
+subprocess output: b'size=    5632KiB time=00:06:11.76 bitrate= 124.1kbits/s speed= 103x'
+subprocess output: b'size=    6400KiB time=00:07:05.59 bitrate= 123.2kbits/s speed= 103x'
+subprocess output: b'size=    7424KiB time=00:07:59.20 bitrate= 126.9kbits/s speed= 103x'
+subprocess output: b'size=    8192KiB time=00:08:52.20 bitrate= 126.1kbits/s speed= 103x'
+subprocess output: b'size=    8960KiB time=00:09:45.88 bitrate= 125.3kbits/s speed= 103x'
+subprocess output: b'size=    9728KiB time=00:10:37.00 bitrate= 125.1kbits/s speed= 103x'
+subprocess output: b'size=   10752KiB time=00:11:30.79 bitrate= 127.5kbits/s speed= 103x'
+subprocess output: b'size=   11520KiB time=00:12:22.10 bitrate= 127.2kbits/s speed= 103x'
+subprocess output: b'size=   12288KiB time=00:13:14.61 bitrate= 126.7kbits/s speed= 103x'
+subprocess output: b'size=   13056KiB time=00:14:06.43 bitrate= 126.4kbits/s speed= 103x'
+subprocess output: b'size=   13824KiB time=00:14:58.03 bitrate= 126.1kbits/s speed= 102x'
+subprocess output: b'size=   14592KiB time=00:15:43.70 bitrate= 126.7kbits/s speed= 102x'
+subprocess output: b'size=   15360KiB time=00:16:35.47 bitrate= 126.4kbits/s speed= 102x'
+subprocess output: b'size=   16128KiB time=00:17:28.41 bitrate= 126.0kbits/s speed= 102x'
+subprocess output: b'size=   17152KiB time=00:18:20.25 bitrate= 127.7kbits/s speed= 102x'
+subprocess output: b'size=   17920KiB time=00:19:10.96 bitrate= 127.5kbits/s speed= 101x'
+subprocess output: b'size=   18688KiB time=00:20:00.48 bitrate= 127.5kbits/s speed= 101x'
+subprocess output: b'size=   19456KiB time=00:20:47.11 bitrate= 127.8kbits/s speed= 101x'
+subprocess output: b'size=   19968KiB time=00:21:32.20 bitrate= 126.6kbits/s speed=100x'
+subprocess output: b'size=   20736KiB time=00:22:22.82 bitrate= 126.5kbits/s speed=100x'
+subprocess output: b'size=   21760KiB time=00:23:13.65 bitrate= 127.9kbits/s speed=100x'
+subprocess output: b'size=   22528KiB time=00:24:06.96 bitrate= 127.5kbits/s speed=100x'
+subprocess output: b'size=   23296KiB time=00:24:55.77 bitrate= 127.6kbits/s speed=100x'
+subprocess output: b'size=   24064KiB time=00:25:49.22 bitrate= 127.2kbits/s speed=100x'
+subprocess output: b'size=   24832KiB time=00:26:40.15 bitrate= 127.1kbits/s speed=100x'
+subprocess output: b'size=   25600KiB time=00:27:33.67 bitrate= 126.8kbits/s speed=100x'
+subprocess output: b'size=   26624KiB time=00:28:26.73 bitrate= 127.8kbits/s speed=100x'
+subprocess output: b'size=   27392KiB time=00:29:22.82 bitrate= 127.3kbits/s speed= 101x'
+subprocess output: b'size=   28160KiB time=00:30:14.78 bitrate= 127.1kbits/s speed= 101x'
+subprocess output: b'[out#0/mp3 @ 00000219369f0ec0] video:0KiB audio:29006KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.000795%'
+subprocess output: b'size=   29006KiB time=00:30:56.32 bitrate= 128.0kbits/s speed= 101x'
+Conversion complete: 'C:/Users/Davide/Downloads/recordings/coppia6.mp3'
+STREAM b'IHDR' 16 13
+STREAM b'PLTE' 41 51
+STREAM b'tRNS' 104 16
+STREAM b'IDAT' 132 1085
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 4877
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+Selected file: C:/Users/Davide/Downloads/recordings/coppia6.aac
+Converting 'C:/Users/Davide/Downloads/recordings/coppia6.aac' to MP3...
+subprocess.call(['ffmpeg', '-y', '-i', 'C:/Users/Davide/Downloads/recordings/coppia6.aac', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+subprocess.call(['ffmpeg', '-y', '-f', 'wav', '-i', 'C:\\Users\\Davide\\AppData\\Local\\Temp\\tmpio3rg3na', '-f', 'mp3', 'C:\\Users\\Davide\\AppData\\Local\\Temp\\tmpfou5dekm'])
+subprocess output: b'ffmpeg version 7.1.1-essentials_build-www.gyan.dev Copyright (c) 2000-2025 the FFmpeg developers'
+subprocess output: b'  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)'
+subprocess output: b'  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband'
+subprocess output: b'  libavutil      59. 39.100 / 59. 39.100'
+subprocess output: b'  libavcodec     61. 19.101 / 61. 19.101'
+subprocess output: b'  libavformat    61.  7.100 / 61.  7.100'
+subprocess output: b'  libavdevice    61.  3.100 / 61.  3.100'
+subprocess output: b'  libavfilter    10.  4.100 / 10.  4.100'
+subprocess output: b'  libswscale      8.  3.100 /  8.  3.100'
+subprocess output: b'  libswresample   5.  3.100 /  5.  3.100'
+subprocess output: b'  libpostproc    58.  3.100 / 58.  3.100'
+subprocess output: b'[aist#0:0/pcm_s16le @ 000001162d24b100] Guessed Channel Layout: stereo'
+subprocess output: b"Input #0, wav, from 'C:\\Users\\Davide\\AppData\\Local\\Temp\\tmpio3rg3na':"
+subprocess output: b'  Duration: 00:30:56.32, bitrate: 1536 kb/s'
+subprocess output: b'  Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 48000 Hz, stereo, s16, 1536 kb/s'
+subprocess output: b'Stream mapping:'
+subprocess output: b'  Stream #0:0 -> #0:0 (pcm_s16le (native) -> mp3 (libmp3lame))'
+subprocess output: b'Press [q] to stop, [?] for help'
+subprocess output: b"Output #0, mp3, to 'C:\\Users\\Davide\\AppData\\Local\\Temp\\tmpfou5dekm':"
+subprocess output: b'  Metadata:'
+subprocess output: b'    TSSE            : Lavf61.7.100'
+subprocess output: b'  Stream #0:0: Audio: mp3, 48000 Hz, stereo, s16p'
+subprocess output: b'      Metadata:'
+subprocess output: b'        encoder         : Lavc61.19.101 libmp3lame'
+subprocess output: b'size=     512KiB time=00:00:34.22 bitrate= 122.6kbits/s speed=67.7x'
+subprocess output: b'size=    1280KiB time=00:01:22.46 bitrate= 127.2kbits/s speed=79.6x'
+subprocess output: b'size=    1792KiB time=00:02:10.48 bitrate= 112.5kbits/s speed=84.4x'
+subprocess output: b'size=    2816KiB time=00:03:02.54 bitrate= 126.4kbits/s speed=88.8x'
+subprocess output: b'size=    3584KiB time=00:03:52.94 bitrate= 126.0kbits/s speed=90.3x'
+subprocess output: b'size=    4352KiB time=00:04:43.77 bitrate= 125.6kbits/s speed=91.8x'
+subprocess output: b'size=    5120KiB time=00:05:35.92 bitrate= 124.9kbits/s speed=93.3x'
+subprocess output: b'size=    5888KiB time=00:06:27.55 bitrate= 124.5kbits/s speed=94.2x'
+subprocess output: b'size=    6656KiB time=00:07:22.27 bitrate= 123.3kbits/s speed=95.3x'
+subprocess output: b'size=    7680KiB time=00:08:17.52 bitrate= 126.5kbits/s speed=96.6x'
+subprocess output: b'size=    8448KiB time=00:09:08.92 bitrate= 126.1kbits/s speed=96.8x'
+subprocess output: b'size=    9216KiB time=00:10:01.27 bitrate= 125.6kbits/s speed=97.2x'
+subprocess output: b'size=    9984KiB time=00:10:54.64 bitrate= 124.9kbits/s speed=97.7x'
+subprocess output: b'size=   11008KiB time=00:11:45.09 bitrate= 127.9kbits/s speed=97.7x'
+subprocess output: b'size=   11520KiB time=00:12:25.27 bitrate= 126.6kbits/s speed=96.4x'
+subprocess output: b'size=   12288KiB time=00:13:13.51 bitrate= 126.9kbits/s speed=96.2x'
+subprocess output: b'size=   13056KiB time=00:13:58.51 bitrate= 127.6kbits/s speed=95.7x'
+subprocess output: b'size=   13568KiB time=00:14:33.48 bitrate= 127.2kbits/s speed=94.1x'
+subprocess output: b'size=   14080KiB time=00:15:14.68 bitrate= 126.1kbits/s speed=93.4x'
+subprocess output: b'size=   14848KiB time=00:16:00.91 bitrate= 126.6kbits/s speed=93.2x'
+subprocess output: b'size=   15616KiB time=00:16:42.96 bitrate= 127.5kbits/s speed=92.6x'
+subprocess output: b'size=   16128KiB time=00:17:23.92 bitrate= 126.6kbits/s speed=  92x'
+subprocess output: b'size=   16640KiB time=00:17:56.92 bitrate= 126.6kbits/s speed=90.8x'
+subprocess output: b'size=   17408KiB time=00:18:34.80 bitrate= 127.9kbits/s speed=90.1x'
+subprocess output: b'size=   17920KiB time=00:19:19.05 bitrate= 126.7kbits/s speed=89.9x'
+subprocess output: b'size=   18688KiB time=00:20:05.44 bitrate= 127.0kbits/s speed=  90x'
+subprocess output: b'size=   19200KiB time=00:20:40.60 bitrate= 126.8kbits/s speed=89.1x'
+subprocess output: b'size=   19712KiB time=00:21:10.56 bitrate= 127.1kbits/s speed=  88x'
+subprocess output: b'size=   20224KiB time=00:21:40.96 bitrate= 127.3kbits/s speed=  87x'
+subprocess output: b'size=   20736KiB time=00:22:09.91 bitrate= 127.7kbits/s speed=  86x'
+subprocess output: b'size=   21248KiB time=00:22:44.97 bitrate= 127.5kbits/s speed=85.4x'
+subprocess output: b'size=   21760KiB time=00:23:24.64 bitrate= 126.9kbits/s speed=85.1x'
+subprocess output: b'size=   22528KiB time=00:24:09.38 bitrate= 127.3kbits/s speed=85.2x'
+subprocess output: b'size=   23296KiB time=00:24:56.01 bitrate= 127.6kbits/s speed=85.4x'
+subprocess output: b'size=   24064KiB time=00:25:41.35 bitrate= 127.9kbits/s speed=85.4x'
+subprocess output: b'size=   24576KiB time=00:26:23.61 bitrate= 127.1kbits/s speed=85.3x'
+subprocess output: b'size=   25344KiB time=00:27:02.56 bitrate= 128.0kbits/s speed=85.1x'
+subprocess output: b'size=   25856KiB time=00:27:48.79 bitrate= 126.9kbits/s speed=85.2x'
+subprocess output: b'size=   26624KiB time=00:28:39.45 bitrate= 126.8kbits/s speed=85.5x'
+subprocess output: b'size=   27392KiB time=00:29:27.55 bitrate= 127.0kbits/s speed=85.7x'
+subprocess output: b'size=   28160KiB time=00:30:16.60 bitrate= 127.0kbits/s speed=  86x'
+subprocess output: b'[out#0/mp3 @ 000001162d240ec0] video:0KiB audio:29006KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.000795%'
+subprocess output: b'size=   29006KiB time=00:30:56.32 bitrate= 128.0kbits/s speed=86.1x'
+Conversion complete: 'C:/Users/Davide/Downloads/recordings/coppia6.mp3'
+STREAM b'IHDR' 16 13
+STREAM b'PLTE' 41 51
+STREAM b'tRNS' 104 16
+STREAM b'IDAT' 132 1085
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 4877
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+Selected file: aac
+Converting 'aac' to MP3...
+subprocess.call(['ffmpeg', '-y', '-i', 'C:/Users/Davide/Downloads/recordings/coppia6.aac', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+subprocess.call(['ffmpeg', '-y', '-f', 'wav', '-i', 'C:\\Users\\Davide\\AppData\\Local\\Temp\\tmpvlnnar2n', '-f', 'mp3', 'C:\\Users\\Davide\\AppData\\Local\\Temp\\tmp5tdkep8l'])
+subprocess output: b'ffmpeg version 7.1.1-essentials_build-www.gyan.dev Copyright (c) 2000-2025 the FFmpeg developers'
+subprocess output: b'  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)'
+subprocess output: b'  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband'
+subprocess output: b'  libavutil      59. 39.100 / 59. 39.100'
+subprocess output: b'  libavcodec     61. 19.101 / 61. 19.101'
+subprocess output: b'  libavformat    61.  7.100 / 61.  7.100'
+subprocess output: b'  libavdevice    61.  3.100 / 61.  3.100'
+subprocess output: b'  libavfilter    10.  4.100 / 10.  4.100'
+subprocess output: b'  libswscale      8.  3.100 /  8.  3.100'
+subprocess output: b'  libswresample   5.  3.100 /  5.  3.100'
+subprocess output: b'  libpostproc    58.  3.100 / 58.  3.100'
+subprocess output: b'[aist#0:0/pcm_s16le @ 000002798c1bb100] Guessed Channel Layout: stereo'
+subprocess output: b"Input #0, wav, from 'C:\\Users\\Davide\\AppData\\Local\\Temp\\tmpvlnnar2n':"
+subprocess output: b'  Duration: 00:30:56.32, bitrate: 1536 kb/s'
+subprocess output: b'  Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 48000 Hz, stereo, s16, 1536 kb/s'
+subprocess output: b'Stream mapping:'
+subprocess output: b'  Stream #0:0 -> #0:0 (pcm_s16le (native) -> mp3 (libmp3lame))'
+subprocess output: b'Press [q] to stop, [?] for help'
+subprocess output: b"Output #0, mp3, to 'C:\\Users\\Davide\\AppData\\Local\\Temp\\tmp5tdkep8l':"
+subprocess output: b'  Metadata:'
+subprocess output: b'    TSSE            : Lavf61.7.100'
+subprocess output: b'  Stream #0:0: Audio: mp3, 48000 Hz, stereo, s16p'
+subprocess output: b'      Metadata:'
+subprocess output: b'        encoder         : Lavc61.19.101 libmp3lame'
+subprocess output: b'size=     512KiB time=00:00:39.04 bitrate= 107.4kbits/s speed=73.9x'
+subprocess output: b'size=    1024KiB time=00:01:17.54 bitrate= 108.2kbits/s speed=74.7x'
+subprocess output: b'size=    1792KiB time=00:02:03.76 bitrate= 118.6kbits/s speed=79.4x'
+subprocess output: b'size=    2560KiB time=00:02:54.26 bitrate= 120.3kbits/s speed=84.3x'
+subprocess output: b'size=    3328KiB time=00:03:48.21 bitrate= 119.5kbits/s speed=88.4x'
+subprocess output: b'size=    4096KiB time=00:04:37.00 bitrate= 121.1kbits/s speed=89.5x'
+subprocess output: b'size=    4864KiB time=00:05:27.38 bitrate= 121.7kbits/s speed=90.5x'
+subprocess output: b'size=    5888KiB time=00:06:21.04 bitrate= 126.6kbits/s speed=92.3x'
+subprocess output: b'size=    6656KiB time=00:07:14.80 bitrate= 125.4kbits/s speed=93.5x'
+subprocess output: b'size=    7424KiB time=00:08:09.04 bitrate= 124.4kbits/s speed=94.8x'
+subprocess output: b'size=    8192KiB time=00:08:51.57 bitrate= 126.2kbits/s speed=93.7x'
+subprocess output: b'size=    8960KiB time=00:09:35.25 bitrate= 127.6kbits/s speed=92.8x'
+subprocess output: b'size=    9472KiB time=00:10:18.33 bitrate= 125.5kbits/s speed=92.1x'
+subprocess output: b'size=   10240KiB time=00:11:00.57 bitrate= 127.0kbits/s speed=91.5x'
+subprocess output: b'size=   11008KiB time=00:11:45.93 bitrate= 127.7kbits/s speed=91.3x'
+subprocess output: b'size=   11776KiB time=00:12:34.51 bitrate= 127.9kbits/s speed=91.3x'
+subprocess output: b'size=   12288KiB time=00:13:19.84 bitrate= 125.9kbits/s speed=91.2x'
+subprocess output: b'size=   13056KiB time=00:14:06.48 bitrate= 126.4kbits/s speed=91.2x'
+subprocess output: b'size=   13824KiB time=00:14:54.16 bitrate= 126.6kbits/s speed=91.1x'
+subprocess output: b'size=   14592KiB time=00:15:43.08 bitrate= 126.8kbits/s speed=91.4x'
+subprocess output: b'size=   15360KiB time=00:16:25.94 bitrate= 127.6kbits/s speed=  91x'
+subprocess output: b'size=   15872KiB time=00:17:08.30 bitrate= 126.4kbits/s speed=90.6x'
+subprocess output: b'size=   16640KiB time=00:17:48.36 bitrate= 127.6kbits/s speed=90.1x'
+subprocess output: b'size=   16896KiB time=00:18:09.74 bitrate= 127.0kbits/s speed=  88x'
+subprocess output: b'size=   17152KiB time=00:18:22.29 bitrate= 127.5kbits/s speed=85.4x'
+subprocess output: b'size=   17408KiB time=00:18:49.53 bitrate= 126.3kbits/s speed=84.3x'
+subprocess output: b'size=   17920KiB time=00:19:15.09 bitrate= 127.1kbits/s speed=82.9x'
+subprocess output: b'size=   18432KiB time=00:19:46.32 bitrate= 127.3kbits/s speed=82.1x'
+subprocess output: b'size=   18944KiB time=00:20:14.35 bitrate= 127.8kbits/s speed=81.2x'
+subprocess output: b'size=   19200KiB time=00:20:44.23 bitrate= 126.4kbits/s speed=80.4x'
+subprocess output: b'size=   19456KiB time=00:21:00.93 bitrate= 126.4kbits/s speed=78.9x'
+subprocess output: b'size=   19712KiB time=00:21:17.54 bitrate= 126.4kbits/s speed=77.3x'
+subprocess output: b'size=   19968KiB time=00:21:30.76 bitrate= 126.7kbits/s speed=75.7x'
+subprocess output: b'size=   20224KiB time=00:21:44.18 bitrate= 127.0kbits/s speed=74.3x'
+subprocess output: b'size=   20480KiB time=00:22:05.73 bitrate= 126.6kbits/s speed=73.3x'
+subprocess output: b'size=   20992KiB time=00:22:31.60 bitrate= 127.2kbits/s speed=72.6x'
+subprocess output: b'size=   21248KiB time=00:22:49.53 bitrate= 127.1kbits/s speed=71.5x'
+subprocess output: b'size=   21504KiB time=00:23:05.92 bitrate= 127.1kbits/s speed=70.5x'
+subprocess output: b'size=   21760KiB time=00:23:22.29 bitrate= 127.1kbits/s speed=69.5x'
+subprocess output: b'size=   22016KiB time=00:23:39.88 bitrate= 127.0kbits/s speed=68.6x'
+subprocess output: b'size=   22272KiB time=00:23:57.55 bitrate= 126.9kbits/s speed=67.8x'
+subprocess output: b'size=   22528KiB time=00:24:15.43 bitrate= 126.8kbits/s speed=  67x'
+subprocess output: b'size=   22784KiB time=00:24:32.92 bitrate= 126.7kbits/s speed=66.2x'
+subprocess output: b'size=   23040KiB time=00:24:50.11 bitrate= 126.7kbits/s speed=65.4x'
+subprocess output: b'size=   23552KiB time=00:25:08.11 bitrate= 127.9kbits/s speed=64.8x'
+subprocess output: b'size=   23808KiB time=00:25:25.36 bitrate= 127.9kbits/s speed=64.1x'
+subprocess output: b'size=   24064KiB time=00:25:50.18 bitrate= 127.2kbits/s speed=63.7x'
+subprocess output: b'size=   24576KiB time=00:26:20.85 bitrate= 127.4kbits/s speed=63.6x'
+subprocess output: b'size=   25344KiB time=00:27:02.54 bitrate= 128.0kbits/s speed=  64x'
+subprocess output: b'size=   25856KiB time=00:27:47.23 bitrate= 127.0kbits/s speed=64.5x'
+subprocess output: b'size=   26624KiB time=00:28:28.27 bitrate= 127.7kbits/s speed=64.8x'
+subprocess output: b'size=   26880KiB time=00:28:41.04 bitrate= 127.9kbits/s speed=  64x'
+subprocess output: b'size=   26880KiB time=00:28:53.16 bitrate= 127.1kbits/s speed=63.2x'
+subprocess output: b'size=   27136KiB time=00:29:06.09 bitrate= 127.3kbits/s speed=62.5x'
+subprocess output: b'size=   27392KiB time=00:29:19.99 bitrate= 127.5kbits/s speed=61.8x'
+subprocess output: b'size=   27648KiB time=00:29:34.65 bitrate= 127.6kbits/s speed=61.2x'
+subprocess output: b'size=   27648KiB time=00:29:38.37 bitrate= 127.4kbits/s speed=60.3x'
+subprocess output: b'size=   27904KiB time=00:29:46.48 bitrate= 128.0kbits/s speed=59.5x'
+subprocess output: b'size=   27904KiB time=00:29:52.58 bitrate= 127.5kbits/s speed=58.7x'
+subprocess output: b'size=   27904KiB time=00:30:01.22 bitrate= 126.9kbits/s speed=  58x'
+subprocess output: b'size=   28160KiB time=00:30:14.16 bitrate= 127.2kbits/s speed=57.5x'
+subprocess output: b'size=   28416KiB time=00:30:25.34 bitrate= 127.5kbits/s speed=56.9x'
+subprocess output: b'size=   28672KiB time=00:30:38.25 bitrate= 127.8kbits/s speed=56.4x'
+subprocess output: b'size=   28928KiB time=00:30:52.05 bitrate= 128.0kbits/s speed=55.9x'
+subprocess output: b'[out#0/mp3 @ 000002798c1b0ec0] video:0KiB audio:29006KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.000795%'
+subprocess output: b'size=   29006KiB time=00:30:56.32 bitrate= 128.0kbits/s speed=55.7x'
+Conversion complete
+STREAM b'IHDR' 16 13
+STREAM b'PLTE' 41 51
+STREAM b'tRNS' 104 16
+STREAM b'IDAT' 132 1085
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 4877
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+Selected file: C:/Users/Davide/Downloads/recordings/coppia6
+Converting 'C:/Users/Davide/Downloads/recordings/coppia6' to MP3...
+subprocess.call(['ffmpeg', '-y', '-i', 'C:/Users/Davide/Downloads/recordings/coppia6.aac', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+subprocess.call(['ffmpeg', '-y', '-f', 'wav', '-i', 'C:\\Users\\Davide\\AppData\\Local\\Temp\\tmpgaj8ebme', '-f', 'mp3', 'C:\\Users\\Davide\\AppData\\Local\\Temp\\tmp4k507izo'])
+subprocess output: b'ffmpeg version 7.1.1-essentials_build-www.gyan.dev Copyright (c) 2000-2025 the FFmpeg developers'
+subprocess output: b'  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)'
+subprocess output: b'  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband'
+subprocess output: b'  libavutil      59. 39.100 / 59. 39.100'
+subprocess output: b'  libavcodec     61. 19.101 / 61. 19.101'
+subprocess output: b'  libavformat    61.  7.100 / 61.  7.100'
+subprocess output: b'  libavdevice    61.  3.100 / 61.  3.100'
+subprocess output: b'  libavfilter    10.  4.100 / 10.  4.100'
+subprocess output: b'  libswscale      8.  3.100 /  8.  3.100'
+subprocess output: b'  libswresample   5.  3.100 /  5.  3.100'
+subprocess output: b'  libpostproc    58.  3.100 / 58.  3.100'
+subprocess output: b'[aist#0:0/pcm_s16le @ 000001bae8c1b100] Guessed Channel Layout: stereo'
+subprocess output: b"Input #0, wav, from 'C:\\Users\\Davide\\AppData\\Local\\Temp\\tmpgaj8ebme':"
+subprocess output: b'  Duration: 00:30:56.32, bitrate: 1536 kb/s'
+subprocess output: b'  Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 48000 Hz, stereo, s16, 1536 kb/s'
+subprocess output: b'Stream mapping:'
+subprocess output: b'  Stream #0:0 -> #0:0 (pcm_s16le (native) -> mp3 (libmp3lame))'
+subprocess output: b'Press [q] to stop, [?] for help'
+subprocess output: b"Output #0, mp3, to 'C:\\Users\\Davide\\AppData\\Local\\Temp\\tmp4k507izo':"
+subprocess output: b'  Metadata:'
+subprocess output: b'    TSSE            : Lavf61.7.100'
+subprocess output: b'  Stream #0:0: Audio: mp3, 48000 Hz, stereo, s16p'
+subprocess output: b'      Metadata:'
+subprocess output: b'        encoder         : Lavc61.19.101 libmp3lame'
+subprocess output: b'size=     512KiB time=00:00:40.51 bitrate= 103.5kbits/s speed=79.3x'
+subprocess output: b'size=    1280KiB time=00:01:28.03 bitrate= 119.1kbits/s speed=  86x'
+subprocess output: b'size=    2048KiB time=00:02:18.12 bitrate= 121.5kbits/s speed=89.2x'
+subprocess output: b'size=    2816KiB time=00:03:01.72 bitrate= 126.9kbits/s speed=88.2x'
+subprocess output: b'size=    3328KiB time=00:03:49.03 bitrate= 119.0kbits/s speed=  89x'
+subprocess output: b'size=    4352KiB time=00:04:39.09 bitrate= 127.7kbits/s speed=90.4x'
+subprocess output: b'size=    5120KiB time=00:05:30.69 bitrate= 126.8kbits/s speed=91.5x'
+subprocess output: b'size=    5888KiB time=00:06:21.09 bitrate= 126.6kbits/s speed=92.5x'
+subprocess output: b'size=    6656KiB time=00:07:13.72 bitrate= 125.7kbits/s speed=93.6x'
+subprocess output: b'size=    7424KiB time=00:08:10.75 bitrate= 123.9kbits/s speed=95.1x'
+subprocess output: b'size=    8192KiB time=00:09:00.26 bitrate= 124.2kbits/s speed=95.4x'
+subprocess output: b'size=    9216KiB time=00:09:54.31 bitrate= 127.0kbits/s speed=  96x'
+subprocess output: b'size=    9984KiB time=00:10:44.40 bitrate= 126.9kbits/s speed=96.2x'
+subprocess output: b'size=   10752KiB time=00:11:37.72 bitrate= 126.2kbits/s speed=96.8x'
+subprocess output: b'size=   11520KiB time=00:12:29.85 bitrate= 125.9kbits/s speed=96.9x'
+subprocess output: b'size=   12288KiB time=00:13:20.35 bitrate= 125.8kbits/s speed=  97x'
+subprocess output: b'size=   13312KiB time=00:14:12.55 bitrate= 127.9kbits/s speed=97.3x'
+subprocess output: b'size=   14080KiB time=00:15:06.52 bitrate= 127.2kbits/s speed=97.7x'
+subprocess output: b'size=   14848KiB time=00:16:00.07 bitrate= 126.7kbits/s speed=  98x'
+subprocess output: b'size=   15616KiB time=00:16:41.47 bitrate= 127.7kbits/s speed=97.2x'
+subprocess output: b'size=   16128KiB time=00:17:21.31 bitrate= 126.9kbits/s speed=96.3x'
+subprocess output: b'size=   16896KiB time=00:18:06.21 bitrate= 127.4kbits/s speed=95.8x'
+subprocess output: b'size=   17664KiB time=00:18:53.49 bitrate= 127.7kbits/s speed=95.6x'
+subprocess output: b'size=   18432KiB time=00:19:44.30 bitrate= 127.5kbits/s speed=95.8x'
+subprocess output: b'size=   19200KiB time=00:20:35.11 bitrate= 127.3kbits/s speed=95.8x'
+subprocess output: b'size=   19968KiB time=00:21:22.12 bitrate= 127.6kbits/s speed=95.6x'
+subprocess output: b'size=   20480KiB time=00:21:55.60 bitrate= 127.5kbits/s speed=94.4x'
+subprocess output: b'size=   20992KiB time=00:22:39.28 bitrate= 126.5kbits/s speed=94.1x'
+subprocess output: b'size=   21504KiB time=00:23:10.58 bitrate= 126.7kbits/s speed=92.9x'
+subprocess output: b'size=   22272KiB time=00:23:49.77 bitrate= 127.6kbits/s speed=92.4x'
+subprocess output: b'size=   22784KiB time=00:24:33.40 bitrate= 126.7kbits/s speed=92.1x'
+subprocess output: b'size=   23552KiB time=00:25:19.24 bitrate= 127.0kbits/s speed=  92x'
+subprocess output: b'size=   24064KiB time=00:25:53.11 bitrate= 126.9kbits/s speed=91.2x'
+subprocess output: b'size=   24576KiB time=00:26:19.77 bitrate= 127.4kbits/s speed=90.1x'
+subprocess output: b'size=   25088KiB time=00:26:50.71 bitrate= 127.6kbits/s speed=89.2x'
+subprocess output: b'size=   25600KiB time=00:27:31.41 bitrate= 127.0kbits/s speed=88.9x'
+subprocess output: b'size=   26368KiB time=00:28:19.27 bitrate= 127.1kbits/s speed=  89x'
+subprocess output: b'size=   27136KiB time=00:29:00.36 bitrate= 127.7kbits/s speed=88.8x'
+subprocess output: b'size=   27648KiB time=00:29:35.37 bitrate= 127.6kbits/s speed=88.2x'
+subprocess output: b'size=   28416KiB time=00:30:20.04 bitrate= 127.9kbits/s speed=88.2x'
+subprocess output: b'[out#0/mp3 @ 000001bae8c10ec0] video:0KiB audio:29006KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.000795%'
+subprocess output: b'size=   29006KiB time=00:30:56.32 bitrate= 128.0kbits/s speed=88.2x'
+Conversion complete
+STREAM b'IHDR' 16 13
+STREAM b'PLTE' 41 51
+STREAM b'tRNS' 104 16
+STREAM b'IDAT' 132 1085
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 4877
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+Selected file: coppia6.aac
+Converting 'coppia6.aac' to MP3...
+subprocess.call(['ffmpeg', '-y', '-i', 'C:/Users/Davide/Downloads/recordings/coppia6.aac', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+subprocess.call(['ffmpeg', '-y', '-f', 'wav', '-i', 'C:\\Users\\Davide\\AppData\\Local\\Temp\\tmp9h0j_l5b', '-f', 'mp3', 'C:\\Users\\Davide\\AppData\\Local\\Temp\\tmpbbmbna7k'])
+subprocess output: b'ffmpeg version 7.1.1-essentials_build-www.gyan.dev Copyright (c) 2000-2025 the FFmpeg developers'
+subprocess output: b'  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)'
+subprocess output: b'  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband'
+subprocess output: b'  libavutil      59. 39.100 / 59. 39.100'
+subprocess output: b'  libavcodec     61. 19.101 / 61. 19.101'
+subprocess output: b'  libavformat    61.  7.100 / 61.  7.100'
+subprocess output: b'  libavdevice    61.  3.100 / 61.  3.100'
+subprocess output: b'  libavfilter    10.  4.100 / 10.  4.100'
+subprocess output: b'  libswscale      8.  3.100 /  8.  3.100'
+subprocess output: b'  libswresample   5.  3.100 /  5.  3.100'
+subprocess output: b'  libpostproc    58.  3.100 / 58.  3.100'
+subprocess output: b'[aist#0:0/pcm_s16le @ 0000021283c6b100] Guessed Channel Layout: stereo'
+subprocess output: b"Input #0, wav, from 'C:\\Users\\Davide\\AppData\\Local\\Temp\\tmp9h0j_l5b':"
+subprocess output: b'  Duration: 00:30:56.32, bitrate: 1536 kb/s'
+subprocess output: b'  Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 48000 Hz, stereo, s16, 1536 kb/s'
+subprocess output: b'Stream mapping:'
+subprocess output: b'  Stream #0:0 -> #0:0 (pcm_s16le (native) -> mp3 (libmp3lame))'
+subprocess output: b'Press [q] to stop, [?] for help'
+subprocess output: b"Output #0, mp3, to 'C:\\Users\\Davide\\AppData\\Local\\Temp\\tmpbbmbna7k':"
+subprocess output: b'  Metadata:'
+subprocess output: b'    TSSE            : Lavf61.7.100'
+subprocess output: b'  Stream #0:0: Audio: mp3, 48000 Hz, stereo, s16p'
+subprocess output: b'      Metadata:'
+subprocess output: b'        encoder         : Lavc61.19.101 libmp3lame'
+subprocess output: b'size=     512KiB time=00:00:48.52 bitrate=  86.4kbits/s speed=94.6x'
+subprocess output: b'size=    1536KiB time=00:01:41.88 bitrate= 123.5kbits/s speed=99.7x'
+subprocess output: b'size=    2304KiB time=00:02:37.20 bitrate= 120.1kbits/s speed= 102x'
+subprocess output: b'size=    3072KiB time=00:03:27.55 bitrate= 121.3kbits/s speed= 101x'
+subprocess output: b'size=    3840KiB time=00:04:21.02 bitrate= 120.5kbits/s speed= 101x'
+subprocess output: b'size=    4608KiB time=00:05:09.52 bitrate= 122.0kbits/s speed=100x'
+subprocess output: b'size=    5376KiB time=00:05:54.38 bitrate= 124.3kbits/s speed=98.2x'
+subprocess output: b'size=    6144KiB time=00:06:43.08 bitrate= 124.9kbits/s speed=97.8x'
+subprocess output: b'size=    6912KiB time=00:07:36.14 bitrate= 124.1kbits/s speed=98.2x'
+subprocess output: b'size=    7680KiB time=00:08:26.80 bitrate= 124.1kbits/s speed=98.3x'
+subprocess output: b'size=    8704KiB time=00:09:18.16 bitrate= 127.7kbits/s speed=98.6x'
+subprocess output: b'size=    9472KiB time=00:10:11.71 bitrate= 126.8kbits/s speed=98.8x'
+subprocess output: b'size=   10240KiB time=00:11:01.87 bitrate= 126.7kbits/s speed=98.8x'
+subprocess output: b'size=   11008KiB time=00:11:53.06 bitrate= 126.5kbits/s speed=98.9x'
+subprocess output: b'size=   11776KiB time=00:12:47.64 bitrate= 125.7kbits/s speed=99.2x'
+subprocess output: b'size=   12800KiB time=00:13:39.31 bitrate= 128.0kbits/s speed=99.4x'
+subprocess output: b'size=   13568KiB time=00:14:32.64 bitrate= 127.4kbits/s speed=99.7x'
+subprocess output: b'size=   14336KiB time=00:15:24.93 bitrate= 127.0kbits/s speed=99.7x'
+subprocess output: b'size=   15104KiB time=00:16:18.21 bitrate= 126.5kbits/s speed=100x'
+subprocess output: b'size=   15872KiB time=00:17:11.61 bitrate= 126.0kbits/s speed=100x'
+subprocess output: b'size=   16896KiB time=00:18:07.39 bitrate= 127.3kbits/s speed=100x'
+subprocess output: b'size=   17664KiB time=00:18:59.59 bitrate= 127.0kbits/s speed= 101x'
+subprocess output: b'size=   18688KiB time=00:19:57.12 bitrate= 127.9kbits/s speed= 101x'
+subprocess output: b'size=   19456KiB time=00:20:51.52 bitrate= 127.4kbits/s speed= 101x'
+subprocess output: b'size=   20224KiB time=00:21:41.71 bitrate= 127.3kbits/s speed= 101x'
+subprocess output: b'size=   20992KiB time=00:22:33.02 bitrate= 127.1kbits/s speed= 101x'
+subprocess output: b'size=   21760KiB time=00:23:23.40 bitrate= 127.0kbits/s speed= 101x'
+subprocess output: b'size=   22528KiB time=00:24:16.03 bitrate= 126.7kbits/s speed= 101x'
+subprocess output: b'size=   23552KiB time=00:25:08.83 bitrate= 127.9kbits/s speed= 101x'
+subprocess output: b'size=   24320KiB time=00:26:00.74 bitrate= 127.7kbits/s speed= 101x'
+subprocess output: b'size=   25088KiB time=00:26:54.67 bitrate= 127.3kbits/s speed= 101x'
+subprocess output: b'size=   25856KiB time=00:27:45.76 bitrate= 127.2kbits/s speed= 101x'
+subprocess output: b'size=   26624KiB time=00:28:31.89 bitrate= 127.4kbits/s speed= 101x'
+subprocess output: b'size=   27392KiB time=00:29:15.33 bitrate= 127.8kbits/s speed=100x'
+subprocess output: b'size=   28160KiB time=00:30:03.93 bitrate= 127.9kbits/s speed=100x'
+subprocess output: b'size=   28672KiB time=00:30:38.73 bitrate= 127.7kbits/s speed=99.1x'
+subprocess output: b'[out#0/mp3 @ 0000021283c60ec0] video:0KiB audio:29006KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.000795%'
+subprocess output: b'size=   29006KiB time=00:30:56.32 bitrate= 128.0kbits/s speed=98.2x'
+Conversion complete
+STREAM b'IHDR' 16 13
+STREAM b'PLTE' 41 51
+STREAM b'tRNS' 104 16
+STREAM b'IDAT' 132 1085
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 4877
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+Selected file: coppia6.aac
+STREAM b'IHDR' 16 13
+STREAM b'PLTE' 41 51
+STREAM b'tRNS' 104 16
+STREAM b'IDAT' 132 1085
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 4877
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+Selected file: coppia6.aac
+Converting 'coppia6.aac' to MP3...
+subprocess.call(['ffmpeg', '-y', '-i', 'C:/Users/Davide/Downloads/recordings/coppia6.aac', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+subprocess.call(['ffmpeg', '-y', '-f', 'wav', '-i', 'C:\\Users\\Davide\\AppData\\Local\\Temp\\tmp2_nx9jd3', '-f', 'mp3', 'C:\\Users\\Davide\\AppData\\Local\\Temp\\tmpfwi0dgb7'])
+subprocess output: b'ffmpeg version 7.1.1-essentials_build-www.gyan.dev Copyright (c) 2000-2025 the FFmpeg developers'
+subprocess output: b'  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)'
+subprocess output: b'  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband'
+subprocess output: b'  libavutil      59. 39.100 / 59. 39.100'
+subprocess output: b'  libavcodec     61. 19.101 / 61. 19.101'
+subprocess output: b'  libavformat    61.  7.100 / 61.  7.100'
+subprocess output: b'  libavdevice    61.  3.100 / 61.  3.100'
+subprocess output: b'  libavfilter    10.  4.100 / 10.  4.100'
+subprocess output: b'  libswscale      8.  3.100 /  8.  3.100'
+subprocess output: b'  libswresample   5.  3.100 /  5.  3.100'
+subprocess output: b'  libpostproc    58.  3.100 / 58.  3.100'
+subprocess output: b'[aist#0:0/pcm_s16le @ 0000017fb1ccb100] Guessed Channel Layout: stereo'
+subprocess output: b"Input #0, wav, from 'C:\\Users\\Davide\\AppData\\Local\\Temp\\tmp2_nx9jd3':"
+subprocess output: b'  Duration: 00:30:56.32, bitrate: 1536 kb/s'
+subprocess output: b'  Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 48000 Hz, stereo, s16, 1536 kb/s'
+subprocess output: b'Stream mapping:'
+subprocess output: b'  Stream #0:0 -> #0:0 (pcm_s16le (native) -> mp3 (libmp3lame))'
+subprocess output: b'Press [q] to stop, [?] for help'
+subprocess output: b"Output #0, mp3, to 'C:\\Users\\Davide\\AppData\\Local\\Temp\\tmpfwi0dgb7':"
+subprocess output: b'  Metadata:'
+subprocess output: b'    TSSE            : Lavf61.7.100'
+subprocess output: b'  Stream #0:0: Audio: mp3, 48000 Hz, stereo, s16p'
+subprocess output: b'      Metadata:'
+subprocess output: b'        encoder         : Lavc61.19.101 libmp3lame'
+subprocess output: b'size=     512KiB time=00:00:39.91 bitrate= 105.1kbits/s speed=77.6x'
+subprocess output: b'size=    1280KiB time=00:01:22.75 bitrate= 126.7kbits/s speed=80.9x'
+subprocess output: b'size=    2048KiB time=00:02:13.34 bitrate= 125.8kbits/s speed=86.3x'
+subprocess output: b'size=    2816KiB time=00:03:03.57 bitrate= 125.7kbits/s speed=89.4x'
+subprocess output: b'size=    3584KiB time=00:03:56.73 bitrate= 124.0kbits/s speed=91.7x'
+subprocess output: b'size=    4352KiB time=00:04:42.04 bitrate= 126.4kbits/s speed=91.4x'
+subprocess output: b'size=    5120KiB time=00:05:32.80 bitrate= 126.0kbits/s speed=92.2x'
+subprocess output: b'size=    5632KiB time=00:06:11.32 bitrate= 124.2kbits/s speed=90.1x'
+subprocess output: b'size=    6400KiB time=00:07:00.24 bitrate= 124.8kbits/s speed=90.5x'
+subprocess output: b'size=    7168KiB time=00:07:52.12 bitrate= 124.4kbits/s speed=91.5x'
+subprocess output: b'size=    7936KiB time=00:08:43.51 bitrate= 124.2kbits/s speed=92.4x'
+subprocess output: b'size=    8960KiB time=00:09:37.39 bitrate= 127.1kbits/s speed=93.3x'
+subprocess output: b'size=    9728KiB time=00:10:32.30 bitrate= 126.0kbits/s speed=94.4x'
+subprocess output: b'size=   10496KiB time=00:11:27.74 bitrate= 125.0kbits/s speed=95.2x'
+subprocess output: b'size=   11520KiB time=00:12:19.96 bitrate= 127.5kbits/s speed=95.7x'
+subprocess output: b'size=   12288KiB time=00:13:12.64 bitrate= 127.0kbits/s speed=96.2x'
+subprocess output: b'size=   13056KiB time=00:14:04.84 bitrate= 126.6kbits/s speed=96.4x'
+subprocess output: b'size=   13824KiB time=00:14:57.50 bitrate= 126.2kbits/s speed=96.6x'
+subprocess output: b'size=   14848KiB time=00:15:54.31 bitrate= 127.5kbits/s speed=97.3x'
+subprocess output: b'size=   15616KiB time=00:16:50.08 bitrate= 126.6kbits/s speed=97.8x'
+subprocess output: b'size=   16384KiB time=00:17:43.22 bitrate= 126.2kbits/s speed=98.1x'
+subprocess output: b'size=   17408KiB time=00:18:39.19 bitrate= 127.4kbits/s speed=98.5x'
+subprocess output: b'size=   18176KiB time=00:19:32.95 bitrate= 126.9kbits/s speed=98.8x'
+subprocess output: b'size=   18944KiB time=00:20:26.28 bitrate= 126.6kbits/s speed=  99x'
+subprocess output: b'size=   19968KiB time=00:21:19.96 bitrate= 127.8kbits/s speed=99.1x'
+subprocess output: b'size=   20736KiB time=00:22:10.92 bitrate= 127.6kbits/s speed=99.2x'
+subprocess output: b'size=   21504KiB time=00:23:02.54 bitrate= 127.4kbits/s speed=99.2x'
+subprocess output: b'size=   22272KiB time=00:23:53.66 bitrate= 127.3kbits/s speed=99.3x'
+subprocess output: b'size=   23040KiB time=00:24:46.44 bitrate= 127.0kbits/s speed=99.3x'
+subprocess output: b'size=   23808KiB time=00:25:39.45 bitrate= 126.7kbits/s speed=99.4x'
+subprocess output: b'size=   24832KiB time=00:26:32.88 bitrate= 127.7kbits/s speed=99.6x'
+subprocess output: b'size=   25600KiB time=00:27:25.65 bitrate= 127.4kbits/s speed=99.6x'
+subprocess output: b'size=   26368KiB time=00:28:21.55 bitrate= 126.9kbits/s speed=99.9x'
+subprocess output: b'size=   27392KiB time=00:29:15.14 bitrate= 127.8kbits/s speed=100x'
+subprocess output: b'size=   28160KiB time=00:30:07.94 bitrate= 127.6kbits/s speed=100x'
+subprocess output: b'[out#0/mp3 @ 0000017fb1cc0ec0] video:0KiB audio:29006KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.000795%'
+subprocess output: b'size=   29006KiB time=00:30:56.32 bitrate= 128.0kbits/s speed=100x'
+Conversion complete
+STREAM b'IHDR' 16 13
+STREAM b'PLTE' 41 51
+STREAM b'tRNS' 104 16
+STREAM b'IDAT' 132 1085
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 4877
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+STREAM b'IHDR' 16 13
+STREAM b'PLTE' 41 51
+STREAM b'tRNS' 104 16
+STREAM b'IDAT' 132 1085
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 4877
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+Selected file: coppia6.aac
+Converting 'coppia6.aac' to MP3...
+subprocess.call(['ffmpeg', '-y', '-i', 'C:/Users/Davide/Downloads/recordings/coppia6.aac', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+subprocess.call(['ffmpeg', '-y', '-f', 'wav', '-i', 'C:\\Users\\Davide\\AppData\\Local\\Temp\\tmp7clj4_5z', '-f', 'mp3', 'C:\\Users\\Davide\\AppData\\Local\\Temp\\tmpt7qddqmd'])
+subprocess output: b'ffmpeg version 7.1.1-essentials_build-www.gyan.dev Copyright (c) 2000-2025 the FFmpeg developers'
+subprocess output: b'  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)'
+subprocess output: b'  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband'
+subprocess output: b'  libavutil      59. 39.100 / 59. 39.100'
+subprocess output: b'  libavcodec     61. 19.101 / 61. 19.101'
+subprocess output: b'  libavformat    61.  7.100 / 61.  7.100'
+subprocess output: b'  libavdevice    61.  3.100 / 61.  3.100'
+subprocess output: b'  libavfilter    10.  4.100 / 10.  4.100'
+subprocess output: b'  libswscale      8.  3.100 /  8.  3.100'
+subprocess output: b'  libswresample   5.  3.100 /  5.  3.100'
+subprocess output: b'  libpostproc    58.  3.100 / 58.  3.100'
+subprocess output: b'[aist#0:0/pcm_s16le @ 000001f9d091b100] Guessed Channel Layout: stereo'
+subprocess output: b"Input #0, wav, from 'C:\\Users\\Davide\\AppData\\Local\\Temp\\tmp7clj4_5z':"
+subprocess output: b'  Duration: 00:30:56.32, bitrate: 1536 kb/s'
+subprocess output: b'  Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 48000 Hz, stereo, s16, 1536 kb/s'
+subprocess output: b'Stream mapping:'
+subprocess output: b'  Stream #0:0 -> #0:0 (pcm_s16le (native) -> mp3 (libmp3lame))'
+subprocess output: b'Press [q] to stop, [?] for help'
+subprocess output: b"Output #0, mp3, to 'C:\\Users\\Davide\\AppData\\Local\\Temp\\tmpt7qddqmd':"
+subprocess output: b'  Metadata:'
+subprocess output: b'    TSSE            : Lavf61.7.100'
+subprocess output: b'  Stream #0:0: Audio: mp3, 48000 Hz, stereo, s16p'
+subprocess output: b'      Metadata:'
+subprocess output: b'        encoder         : Lavc61.19.101 libmp3lame'
+subprocess output: b'size=     512KiB time=00:00:35.37 bitrate= 118.6kbits/s speed=68.9x'
+subprocess output: b'size=    1024KiB time=00:01:12.31 bitrate= 116.0kbits/s speed=70.6x'
+subprocess output: b'size=    1792KiB time=00:02:01.70 bitrate= 120.6kbits/s speed=  79x'
+subprocess output: b'size=    2560KiB time=00:02:51.93 bitrate= 122.0kbits/s speed=83.2x'
+subprocess output: b'size=    3328KiB time=00:03:39.57 bitrate= 124.2kbits/s speed=85.3x'
+subprocess output: b'size=    4096KiB time=00:04:32.88 bitrate= 123.0kbits/s speed=88.4x'
+subprocess output: b'size=    4864KiB time=00:05:25.05 bitrate= 122.6kbits/s speed=  90x'
+subprocess output: b'size=    5632KiB time=00:06:14.83 bitrate= 123.1kbits/s speed=90.9x'
+subprocess output: b'size=    6656KiB time=00:07:09.88 bitrate= 126.8kbits/s speed=92.6x'
+subprocess output: b'size=    7424KiB time=00:08:02.28 bitrate= 126.1kbits/s speed=93.6x'
+subprocess output: b'size=    8192KiB time=00:08:54.07 bitrate= 125.7kbits/s speed=94.1x'
+subprocess output: b'size=    8960KiB time=00:09:47.47 bitrate= 124.9kbits/s speed=  95x'
+subprocess output: b'size=    9984KiB time=00:10:41.59 bitrate= 127.5kbits/s speed=95.7x'
+subprocess output: b'size=   10752KiB time=00:11:31.75 bitrate= 127.3kbits/s speed=95.8x'
+subprocess output: b'size=   11520KiB time=00:12:23.30 bitrate= 127.0kbits/s speed=96.1x'
+subprocess output: b'size=   12288KiB time=00:13:17.25 bitrate= 126.3kbits/s speed=96.6x'
+subprocess output: b'size=   13056KiB time=00:14:10.75 bitrate= 125.7kbits/s speed=97.1x'
+subprocess output: b'size=   14080KiB time=00:15:02.92 bitrate= 127.7kbits/s speed=97.3x'
+subprocess output: b'size=   14848KiB time=00:15:57.04 bitrate= 127.1kbits/s speed=97.8x'
+subprocess output: b'size=   15616KiB time=00:16:48.28 bitrate= 126.9kbits/s speed=97.7x'
+subprocess output: b'size=   16384KiB time=00:17:41.06 bitrate= 126.5kbits/s speed=  98x'
+subprocess output: b'size=   17152KiB time=00:18:30.62 bitrate= 126.5kbits/s speed=97.9x'
+subprocess output: b'size=   18176KiB time=00:19:25.17 bitrate= 127.8kbits/s speed=98.2x'
+subprocess output: b'size=   18944KiB time=00:20:16.72 bitrate= 127.5kbits/s speed=98.4x'
+subprocess output: b'size=   19712KiB time=00:21:09.79 bitrate= 127.2kbits/s speed=98.5x'
+subprocess output: b'size=   20480KiB time=00:21:59.28 bitrate= 127.2kbits/s speed=98.4x'
+subprocess output: b'size=   21248KiB time=00:22:49.82 bitrate= 127.1kbits/s speed=98.4x'
+subprocess output: b'size=   22016KiB time=00:23:42.93 bitrate= 126.7kbits/s speed=98.5x'
+subprocess output: b'size=   23040KiB time=00:24:35.40 bitrate= 127.9kbits/s speed=98.7x'
+subprocess output: b'size=   23808KiB time=00:25:27.69 bitrate= 127.7kbits/s speed=98.7x'
+subprocess output: b'size=   24320KiB time=00:26:07.92 bitrate= 127.1kbits/s speed=98.1x'
+subprocess output: b'size=   25088KiB time=00:26:57.07 bitrate= 127.1kbits/s speed=  98x'
+subprocess output: b'size=   25856KiB time=00:27:45.40 bitrate= 127.2kbits/s speed=97.9x'
+subprocess output: b'size=   26624KiB time=00:28:39.26 bitrate= 126.9kbits/s speed=98.1x'
+subprocess output: b'size=   27648KiB time=00:29:34.46 bitrate= 127.6kbits/s speed=98.4x'
+subprocess output: b'size=   28416KiB time=00:30:28.72 bitrate= 127.3kbits/s speed=98.5x'
+subprocess output: b'[out#0/mp3 @ 000001f9d0910ec0] video:0KiB audio:29006KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.000795%'
+subprocess output: b'size=   29006KiB time=00:30:56.32 bitrate= 128.0kbits/s speed=98.4x'
+Conversion complete
+STREAM b'IHDR' 16 13
+STREAM b'PLTE' 41 51
+STREAM b'tRNS' 104 16
+STREAM b'IDAT' 132 1085
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 4877
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+STREAM b'IHDR' 16 13
+STREAM b'PLTE' 41 51
+STREAM b'tRNS' 104 16
+STREAM b'IDAT' 132 1085
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 4877
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+STREAM b'IHDR' 16 13
+STREAM b'PLTE' 41 51
+STREAM b'tRNS' 104 16
+STREAM b'IDAT' 132 1085
+STREAM b'IHDR' 16 13
+STREAM b'IDAT' 41 4877
+Listening on 127.0.0.1:8080
+Using proactor: IocpProactor
+Selected file: coppia6.aac
+Converting 'coppia6.aac' to MP3...
+subprocess.call(['ffmpeg', '-y', '-i', 'C:/Users/Davide/Downloads/recordings/coppia6.aac', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+subprocess.call(['ffmpeg', '-y', '-f', 'wav', '-i', 'C:\\Users\\Davide\\AppData\\Local\\Temp\\tmpev_kjg3q', '-f', 'mp3', 'C:\\Users\\Davide\\AppData\\Local\\Temp\\tmp6m22uaoq'])
+subprocess output: b'ffmpeg version 7.1.1-essentials_build-www.gyan.dev Copyright (c) 2000-2025 the FFmpeg developers'
+subprocess output: b'  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)'
+subprocess output: b'  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband'
+subprocess output: b'  libavutil      59. 39.100 / 59. 39.100'
+subprocess output: b'  libavcodec     61. 19.101 / 61. 19.101'
+subprocess output: b'  libavformat    61.  7.100 / 61.  7.100'
+subprocess output: b'  libavdevice    61.  3.100 / 61.  3.100'
+subprocess output: b'  libavfilter    10.  4.100 / 10.  4.100'
+subprocess output: b'  libswscale      8.  3.100 /  8.  3.100'
+subprocess output: b'  libswresample   5.  3.100 /  5.  3.100'
+subprocess output: b'  libpostproc    58.  3.100 / 58.  3.100'
+subprocess output: b'[aist#0:0/pcm_s16le @ 000002bad9bdb100] Guessed Channel Layout: stereo'
+subprocess output: b"Input #0, wav, from 'C:\\Users\\Davide\\AppData\\Local\\Temp\\tmpev_kjg3q':"
+subprocess output: b'  Duration: 00:30:56.32, bitrate: 1536 kb/s'
+subprocess output: b'  Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 48000 Hz, stereo, s16, 1536 kb/s'
+subprocess output: b'Stream mapping:'
+subprocess output: b'  Stream #0:0 -> #0:0 (pcm_s16le (native) -> mp3 (libmp3lame))'
+subprocess output: b'Press [q] to stop, [?] for help'
+subprocess output: b"Output #0, mp3, to 'C:\\Users\\Davide\\AppData\\Local\\Temp\\tmp6m22uaoq':"
+subprocess output: b'  Metadata:'
+subprocess output: b'    TSSE            : Lavf61.7.100'
+subprocess output: b'  Stream #0:0: Audio: mp3, 48000 Hz, stereo, s16p'
+subprocess output: b'      Metadata:'
+subprocess output: b'        encoder         : Lavc61.19.101 libmp3lame'
+subprocess output: b'size=     512KiB time=00:00:39.09 bitrate= 107.3kbits/s speed=76.2x'
+subprocess output: b'size=    1280KiB time=00:01:26.83 bitrate= 120.8kbits/s speed=84.7x'
+subprocess output: b'size=    2048KiB time=00:02:19.82 bitrate= 120.0kbits/s speed=90.4x'
+subprocess output: b'size=    2816KiB time=00:03:05.32 bitrate= 124.5kbits/s speed=89.8x'
+subprocess output: b'size=    3328KiB time=00:03:47.88 bitrate= 119.6kbits/s speed=88.4x'
+subprocess output: b'size=    4096KiB time=00:04:38.35 bitrate= 120.5kbits/s speed=89.9x'
+subprocess output: b'size=    5120KiB time=00:05:30.40 bitrate= 126.9kbits/s speed=91.6x'
+subprocess output: b'size=    5888KiB time=00:06:23.08 bitrate= 125.9kbits/s speed=92.9x'
+subprocess output: b'size=    6656KiB time=00:07:16.46 bitrate= 124.9kbits/s speed=  94x'
+subprocess output: b'size=    7424KiB time=00:08:11.42 bitrate= 123.8kbits/s speed=95.4x'
+subprocess output: b'size=    8448KiB time=00:09:04.99 bitrate= 127.0kbits/s speed=  96x'
+subprocess output: b'size=    9216KiB time=00:09:58.89 bitrate= 126.1kbits/s speed=96.8x'
+subprocess output: b'size=    9984KiB time=00:10:52.80 bitrate= 125.3kbits/s speed=97.5x'
+subprocess output: b'size=   11008KiB time=00:11:47.42 bitrate= 127.5kbits/s speed=  98x'
+subprocess output: b'size=   11776KiB time=00:12:41.30 bitrate= 126.7kbits/s speed=98.5x'
+subprocess output: b'size=   12544KiB time=00:13:35.11 bitrate= 126.1kbits/s speed=98.9x'
+subprocess output: b'size=   13568KiB time=00:14:31.12 bitrate= 127.6kbits/s speed=99.4x'
+subprocess output: b'size=   14336KiB time=00:15:25.63 bitrate= 126.9kbits/s speed=99.8x'
+subprocess output: b'size=   15104KiB time=00:16:17.37 bitrate= 126.6kbits/s speed=99.9x'
+subprocess output: b'size=   15872KiB time=00:17:12.00 bitrate= 126.0kbits/s speed=100x'
+subprocess output: b'size=   16896KiB time=00:18:04.53 bitrate= 127.6kbits/s speed=100x'
+subprocess output: b'size=   17664KiB time=00:18:58.08 bitrate= 127.1kbits/s speed=100x'
+subprocess output: b'size=   18432KiB time=00:19:54.76 bitrate= 126.4kbits/s speed= 101x'
+subprocess output: b'size=   19456KiB time=00:20:46.70 bitrate= 127.8kbits/s speed= 101x'
+subprocess output: b'size=   20224KiB time=00:21:38.95 bitrate= 127.5kbits/s speed= 101x'
+subprocess output: b'size=   20992KiB time=00:22:30.50 bitrate= 127.3kbits/s speed= 101x'
+subprocess output: b'size=   21760KiB time=00:23:22.05 bitrate= 127.1kbits/s speed= 101x'
+subprocess output: b'size=   22528KiB time=00:24:18.02 bitrate= 126.6kbits/s speed= 101x'
+subprocess output: b'size=   23552KiB time=00:25:11.78 bitrate= 127.6kbits/s speed= 101x'
+subprocess output: b'size=   24320KiB time=00:26:05.85 bitrate= 127.2kbits/s speed= 101x'
+subprocess output: b'size=   25088KiB time=00:26:59.88 bitrate= 126.9kbits/s speed= 101x'
+subprocess output: b'size=   26112KiB time=00:27:57.40 bitrate= 127.5kbits/s speed= 102x'
+subprocess output: b'size=   26880KiB time=00:28:49.70 bitrate= 127.3kbits/s speed= 102x'
+subprocess output: b'size=   27648KiB time=00:29:33.48 bitrate= 127.7kbits/s speed= 101x'
+subprocess output: b'size=   28416KiB time=00:30:27.60 bitrate= 127.4kbits/s speed= 101x'
+subprocess output: b'[out#0/mp3 @ 000002bad9bd0ec0] video:0KiB audio:29006KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.000795%'
+subprocess output: b'size=   29006KiB time=00:30:56.32 bitrate= 128.0kbits/s speed= 101x'
+Conversion complete
